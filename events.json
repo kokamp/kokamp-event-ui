@@ -1,0 +1,40 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "name": "Niagar Falls Tour",
+      "description": "Brief description of special event qGFFFFFFFFFFFFFFFFFFFFFRFFFFFFFFFFFFFFF  FFFFFFFGHERTHZHROHGJRiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii",
+      "price": 24,
+      "location": "73 rue du 8 Mai 1945",
+      "startDate": "2018-12-06T19:00:00+00:00",
+      "endDate": "2018-12-06T19:00:00+00:00",
+      "organizers": [
+        "Text Mex",
+        "Great Mayo",
+        "Aretha Franklin"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Percy Sledge Event ",
+      "description": "Brief description of special event",
+      "price": 24,
+      "location": "73 rue du 8 Mai 1945, Paaris",
+      "startDate": "2018-12-06T19:00:00+00:00",
+      "endDate": "2018-12-06T19:00:00+00:00",
+      "organizers": [
+        "Text Mex",
+        "Great Mayo",
+        "Aretha Franklin"
+      ]
+    },
+    {
+      "name": "MAC Visit Montreal",
+      "id": "3"
+    },
+    {
+      "name": "Aretha Event ",
+      "id": "4"
+    }
+  ]
+}
